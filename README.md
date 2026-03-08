@@ -1,4 +1,3 @@
-[English](./README.EN.md) | 中文
 
 # easy-amazon-voc - 评论智能分析平台
 
@@ -299,10 +298,6 @@ A:
 
 
  
- 
-## 示例图
-### 运行 ,处理中：
-![微信截图_20250514074045.png](easy-amazon-voc-python/微信截图_20250514074045.png)
 
 每一个review 标签分析得到的json： 
 ```json
@@ -383,21 +378,11 @@ A:
     }
 }
 ```
- 
-
-### 新版界面预览（上传、分析过程、词频与结果）：
-
-![首页上传与开始分析](assets/screenshots/ui-home-upload.png)
-![分析过程进度页面](assets/screenshots/ui-processing.png)
-![词频统计（人群与场景）](assets/screenshots/ui-word-frequency-1.png)
-![词频统计（体验价值）](assets/screenshots/ui-word-frequency-2.png)
-![用户画像与评论结果表格](assets/screenshots/ui-persona-table.png)
 
 
 ### easy scraper 插件爬取amazon商品评论：
 插件地址： https://chromewebstore.google.com/detail/cljbfnedccphacfneigoegkiieckjndh
 进入amazon商品评论页面，点击插件图标，选择爬取评论，然后选择爬取的评论数量，点击开始爬取，然后点击导出，选择csv格式，导出评论。https://www.amazon.com/-/zh/product-reviews/B0014C0LUC/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
-![微信截图_20250514081015.png](easy-amazon-voc-python/微信截图_20250514081015.png)
 直接下载所有评论，直接系统上传，什么都不用做，得到评论多维度分析结果。
  
 
@@ -410,6 +395,8 @@ A:
 
 ## 官方支持
 如果您在使用过程中遇到任何问题，请随时联系我们的官方支持团队。您可以通过以下方式联系我们：
-如果您在使用过程中遇到任何问题，请随时联系我们的官方支持团队。您可以通过以下方式联系我们：
-- 邮箱EMAIL- 邮箱：497070928@qq.com
-- 官网- liangdabiao.com
+- 邮箱EMAIL- 邮箱：3341467671@qq.com
+image.png
+image.png
+image.png
+image.png
